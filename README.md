@@ -53,8 +53,9 @@ falling water using physical laws.
 Download: `$ git clone https://github.com/frnmst/threejs-waterfall.git`.
 
 You need:
+
 1. A modern standard compilant html5 and webgl browser (for example GNU 
-   Icecat (i.e. Firefox) or Chromium (i.e. Google Chrome) or others like dwb)
+   Icecat (i.e. Firefox) or Chromium (i.e. Google Chrome) or others like dwb).
 2. A modern and "powerful" (maybe multicore) processor (Tests on an Intel
    Atom N270 netbook failed miserably).
 3. A working GPU with its driver is required (if you have an Nvidia GPU, 
