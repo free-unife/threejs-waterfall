@@ -73,7 +73,7 @@ To run you just need to open `main.html` with your browser.
 
 ## License
 
-![https://www.gnu.org/graphics/gplv3-127x51.png](https://www.gnu.org/graphics/graphics/gplv3-127x51.png)
+![https://www.gnu.org/graphics/gplv3-127x51.png](https://www.gnu.org/graphics/gplv3-127x51.png)
 
 Copyright (C) 2015, 2016 frnmst (Franco Masotti) <franco.masotti@live.com>
 <franco.masotti@student.unife.it>
