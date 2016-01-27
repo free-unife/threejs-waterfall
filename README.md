@@ -10,7 +10,7 @@ of Ferrara), year 2014-2015.
 This is a waterfall simulator which uses a particle system to simulate the 
 falling water using physical laws.
 
-![threejs-waterfall.png](https://raw.githubusercontent.com/frnmst/master/pictures/threejs-waterfall.png)
+![threejs-waterfall.png](https://raw.githubusercontent.com/frnmst/threejs-waterfall/master/pictures/threejs-waterfall.png)
 
 ### Elements
 
