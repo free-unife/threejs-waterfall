@@ -2,10 +2,17 @@ threejs-waterfall
 =================
 
 Waterfall simulator using `THREE.js` and `TWEEN.js` (animation only) libraries.
+This project is part of "Grafica Computerizzata" course in UNIFE (University 
+of Ferrara), year 2014-2015.
 
-###WHATIS
+## What is this project about
+
 This is a waterfall simulator which uses a particle system to simulate the 
 falling water using physical laws.
+
+![threejs-waterfall.png](https://raw.githubusercontent.com/frnmst/master/pictures/threejs-waterfall.png)
+
+### Elements
 
 - Environment:
   The environment consists in a textured skybox with six photos.
@@ -48,18 +55,31 @@ falling water using physical laws.
   The user is able to move in the environment using the mouse thanks to 
   `OrbitAndPanControls.new.js` library.
 
+## How to use the source code
 
-###HOWTO
 Download: `$ git clone https://github.com/frnmst/threejs-waterfall.git`.
 
 You need:
 
-1. A modern standard compilant html5 and webgl browser (for example GNU 
+0. A modern standard compilant html5 and webgl browser (for example GNU 
    Icecat (i.e. Firefox) or Chromium (i.e. Google Chrome) or others like dwb).
-2. A modern and "powerful" (maybe multicore) processor (Tests on an Intel
+1. A modern and "powerful" (maybe multicore) processor (Tests on an Intel
    Atom N270 netbook failed miserably).
-3. A working GPU with its driver is required (if you have an Nvidia GPU, 
+2. A working GPU with its driver is required (if you have an Nvidia GPU, 
    nouveau drivers work just fine).
-4. Finally you need to enable webgl on your browser.
+3. Finally you need to enable webgl on your browser.
 
 To run you just need to open `main.html` with your browser.
+
+## License
+
+![https://www.gnu.org/graphics/gplv3-127x51.png](https://www.gnu.org/graphics/graphics/gplv3-127x51.png)
+
+Copyright (C) 2015, 2016 frnmst (Franco Masotti) <franco.masotti@live.com>
+<franco.masotti@student.unife.it>
+
+threejs-waterfall is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
