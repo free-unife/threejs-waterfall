@@ -12,6 +12,10 @@ falling water using physical laws.
 
 ![threejs-waterfall.png](https://raw.githubusercontent.com/frnmst/threejs-waterfall/master/pictures/threejs-waterfall.png)
 
+### Demo
+
+[here](http://free-unife.github.io/threejs-waterfall/)
+
 ### Elements
 
 - Environment:
